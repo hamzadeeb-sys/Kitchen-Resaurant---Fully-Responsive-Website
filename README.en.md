@@ -1,4 +1,4 @@
-README.ar.md للقراءة باللغة العربية
+[اقرأ هذا الملف باللغة العربية](README.ar.md)
 
 Kitchen Restaurant – Complete Website:
 
